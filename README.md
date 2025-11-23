@@ -32,7 +32,7 @@ The web interface (built with **Gradio**) allows real-time predictions of whethe
 
 ## Model Performance
 
-After comparison, **Naive Bayes** achieved the highest accuracy and was selected for deployment.
+After comparison, **SVM (Linear)** achieved the highest accuracy and was selected for deployment.
 
 ## Sample Output
 
