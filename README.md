@@ -1,3 +1,9 @@
+---
+title: Spam-Mail-Predictor
+app_file: spam_mail_app.py
+sdk: gradio
+sdk_version: 6.0.0
+---
 # Spam Mail Predictor
 
 A machine learning web application that classifies emails as **Spam** or **Ham (Safe)** using Natural Language Processing (NLP).
