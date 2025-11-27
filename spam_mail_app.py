@@ -1,7 +1,6 @@
 #to run locally - 
 # pip install gradio
 # python spam_mail_app.py
-# Visit → http://127.0.0.1:7860
 
 import gradio as gr
 import pickle
