@@ -6,7 +6,7 @@ import gradio as gr
 import pickle
 
 
-# Load your saved model and vectorizer (after you pickle them in your notebook)
+# Load your saved model and vectorizer
 model = pickle.load(open("spam_model.pkl", "rb"))
 vectorizer = pickle.load(open("vectorizer.pkl", "rb"))
 
